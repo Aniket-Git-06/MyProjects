@@ -145,4 +145,4 @@ _Add screenshots here showing:_
 
 ## 🙋‍♂️ Author
 
-Made by [Subir Ghosh](https://github.com/subir301204)
+Made by [Subir Ghosh](https://github.com/subir301204) and [Aniket Dey](https://github.com/Aniket-Git-06)
